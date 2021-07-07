@@ -1,2 +1,2 @@
-# Automa-o-RobotFramework
+# AutomacaobotFramework
 Repositório de testes automatizados
